@@ -30,6 +30,11 @@ This experiment aims to build an LSTM-based neural network model for named entit
 **Step 7 :** We compile the model and fit the train sets and validation sets,We plot the necessary graphs for analysis,A custom prediction is done to test the model manually.
 
 ## PROGRAM
+```
+Developed BY : G Venkata Pavan Kunmar
+Reg No. : 212221240013
+```
+
 ```python
 import matplotlib.pyplot as plt
 import pandas as pd
